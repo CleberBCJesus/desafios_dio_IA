@@ -1,0 +1,53 @@
+ANÁLISE DE SENTIMENTOS COM LANGUAGE STUDIO NO AZURE AI
+
+Análise de texto e resposta a perguntas
+"Passei férias maravilhosas na França"
+idioma predominante: português
+sentimento: 0,88(positivo)
+frases-chaves: "férias maravilhosas"
+entidade: França
+
+Serviço de bot do Azure
+dar um retorno para o usuário
+
+Compreensão da linguagem coloquial
+
+Recursos de fala para texto do serviço de fala
+para gerar fala audível a partir de texto
+
+documentação
+https://aka.ms/ai900-speech
+https://aka.ms/ai900-text-analysis
+
+Conhecendo estudio de fala
+
+configurações
++ criar novo recurso
+-assinatura
+-selecionar
+-fechar
+-conversão de fala em texto em tempo real
+
+idioma-selecionar
+escolher o arquivo de áudio
+
+Conhecendo o Language Studio
+
+Análise semântica de texto ou fala
+
++create a resource
+Ai+machine learning
+create language
+
+instance details
+region
+name: idiomaLanguage
+pricing tier: free
+
+language.cognitive.azure.com
+
+create new
+classify text
+analizar sentimentos e opiniões
+colar texto
+run
