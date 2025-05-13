@@ -1,0 +1,45 @@
+DESAFIO DIO CRIANDO UM COPILOT
+
+copilotstudio.microsoft.com
+
+- conectar/criar uma conta Microsoft 365
+- https://copilotstudio.microsoft.com
+- criar um copilot baseado em modelo
+	escolha o modelo de viagens ou "Safe Travels"
+- criar um copilot baseado em discrição com IA
+- criar um copilot em branco
+
+acessar copilotstudio.microsoft.com
+
+Criar um copilot baseado em modelo
+
+Explore Agents
+- Safe Travels
+	Name - nome do copilot
+	Description - Descrição do agente
+	Instructions - prompt -texto para IA
+	"Você é um especialista em Viagens ao exterior saindo do Brasil. 
+	Você precisa responder de forma educada e como um especialista.
+	E seu responsável ou a empresa que você representa se chama DIO.
+	E seu nome é Agente de viagens DIO."
+	Knowledge - base de conhecimento
+	criar
+	testar
+	
+Criar um copilot baseado em descrição com IA
+
+prompt = 
+"Criar um agente de viagens para a empresa DIO e vai ser responsável por listar todos os requisitos para viajar ao exterior partindo do Brasil. Esse agente vai consultar informações de uma base de dados do excel."
+
+criar
+
+
+Criar copilot em branco
+
++ Create
+New Agent
+edit language
+Name - nome do agente
+change icon - alterar icone
+descrição - "Esse copilot vai ser responsável por responder todas as dúvidas de IA"
+
