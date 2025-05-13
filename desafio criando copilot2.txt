@@ -1,0 +1,34 @@
+CRIANDO UM COPILOTO COM FLUXO DE CONVERSA PERSONALIZADO NO MICROSOFT COPILOT STUDIO
+
+Copilotstudio.microsoft.com
+
++ New agent
+name - nome do agente
+
+descrição - agente responsável em buscar conteudos de copilot studio dentro da documentação oficial da microsoft.
+
+Instruções - Você é um agente chamado " Agente da DIO" e vai agir em tom formal com o idioma em português, para retornar informações relevantes da documentação oficial d Microsoft o Microsoft Learn.
+Ao retornar uma resposta para a pergunta do usuário você deve considerar:
+- Buscar a melhor resposta na documentação
+- retornar a resposta apropriada e amigável em tom formal
+- retornar uma ou mais citações da documentação
+
++ add ação
+
+generative answers
+tópicos
+conversational boosting
+fallback
+
+conversational boosting
+all other conditions
++ message
+
+"Olá, user, desculpa mas não foi posiivel encontrar a resposta que você estava esperando
+entre em contato com o : (11) 4000-4000
+ou contato@dio.com.br"
+
+Aumentar/ diminuir a qualidade da resposta com genAI
+conversation boosting
+data sources
+edit
